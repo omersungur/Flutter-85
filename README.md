@@ -5,12 +5,16 @@ Takımın Adı
 
 # Ürün İle İlgili Bilgiler
 
-## Takım Elemanları ve Rolleri
-• **Oğuzhan Çilkurt** - Scrum Master
+# Team Members
 
-• **Ömer Sungur** - Developer
+| İsim              | Görev          |
+|-------------------|----------------|
+| Oğuzhan Çilkurt   | Scrum Master   |
+| Salim Enes        | Product Owner  |
+| Ömer Sungur       | Developer      |
 
-• **Salim Enes** - Product Owner
+
+
 
 ## Ürün İsmi
 Proje adı ...
