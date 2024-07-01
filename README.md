@@ -6,11 +6,11 @@ Takımın Adı
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları ve Rolleri
--Ömer Sungur (Developer)
+• **Oğuzhan Çilkurt** - Scrum Master
 
--Salim Enes (Product Owner)
+• **Ömer Sungur** - Developer
 
--Oğuzhan Çilkurt (Scrum Master)
+• **Salim Enes** - Product Owner
 
 ## Ürün İsmi
 Proje adı ...
@@ -29,9 +29,11 @@ Bu projede ...
 -c
 
 
-### Kurulum
-Projeyi kendi bilgisayarınızda çalıştırmak için gereken adımlar:
+# SPRİNT 1
 
-1. Depoyu klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/proje-adi.git
+
+# SPRİNT 2
+
+
+# SPRİNT 3
+
