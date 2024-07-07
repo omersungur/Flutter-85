@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_85/screens/home.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'homepage.dart';
 import 'note_repository.dart';
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: HomePage(title: 'Flutter Demo Home Page'),
+      home: const HomeScreen(),
     );
   }
 }
