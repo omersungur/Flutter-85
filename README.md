@@ -1,5 +1,5 @@
 # Takım İsmi
-Takımın Adı
+FL85 Flutter Takımı
 
 
 
@@ -17,7 +17,7 @@ Takımın Adı
 
 
 ## Ürün İsmi
-FL85 Flutter Takımı
+NoteNook
 
 ## Proje Açıklaması
 Bu projede ...
