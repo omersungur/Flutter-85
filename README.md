@@ -5,7 +5,7 @@ Takımın Adı
 
 # Ürün İle İlgili Bilgiler
 
-# Team Members
+# Takım Üyeleri
 
 | İsim              | Görev          |
 |-------------------|----------------|
@@ -17,7 +17,7 @@ Takımın Adı
 
 
 ## Ürün İsmi
-Proje adı ...
+FL85 Flutter Takımı
 
 ## Proje Açıklaması
 Bu projede ...
@@ -31,6 +31,9 @@ Bu projede ...
 -a
 -b
 -c
+
+## Product Backlog URL
+[Miro Backlog Board](https://miro.com/welcomeonboard/T2ZBSmphTDg0Wm1OMmlQNjVzWDZ6Mnh5b0hvOTE0TTFJeTVlSzJFVDB3NmgxM3VWT0lBbjZ5ZGNIeDFQYWNRR3wzNDU4NzY0NTk0MDgyOTg5OTA4fDI=?share_link_id=503685536007)
 
 
 # SPRİNT 1
