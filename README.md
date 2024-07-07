@@ -1,8 +1,6 @@
 # Takım İsmi
 FL85 Flutter Takımı
 
-
-
 # Ürün İle İlgili Bilgiler
 
 ## Takım Üyeleri
@@ -20,17 +18,28 @@ FL85 Flutter Takımı
 NoteNook
 
 ## Proje Açıklaması
-Bu projede ...
+Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işlerini ve planlarını etkili bir şekilde organize etmelerini sağlamak amacıyla tasarlanmıştır. Kullanıcılar, hem yaptıkları işleri kaydedebilecek hem de yapacakları planları not alarak ilerleyişlerini takip edebilecekler. Bu uygulama, iş ve kişisel yaşamı daha düzenli hale getirerek verimliliği artırmayı hedefliyor. Kullanıcı dostu arayüzü ve çoklu platform desteği ile her an, her yerden notlarınıza erişim sağlayabileceksiniz.
 
 ## Ürün Özellikleri
--a
--b
--c
+
+-Kullanıcı Dostu Arayüz
+
+-Not Kategorileri
+
+-Hatırlatıcı ve Bildirimler
+
+-Güvenlik ve Yedekleme
 
 ## Hedef Kitle
+
 -Öğrenciler
--İş insanları
--Düzen Seven İnsanlar
+
+-Profesyoneller
+
+-Organizasyonel Yapılar ve Takımlar
+
+-Kendi Kendini Yönetmeyi Seven Bireyler
+
 
 
 ## Product Backlog URL
@@ -63,6 +72,17 @@ Bu projede ...
 -Uygulama arayüzü tasarlandı.Kullanıcı temel sayfaları oluşturulmuştur.
 
 -Sprint Review katılımcıları:Oğuzhan Çilkurt, Salim Enes, Ömer Sungur
+
+- **Sprint Retrospective**:
+  
+-Roller ile ilgili düzenlemeler yapıldı.
+
+-Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alındı.
+
+-Çeşitli toplantılar ile verilen görevler hakkında ilerleme kaydedildi.
+
+-Takım üyeleri ile birlikte gelecek Sprint'te yapılması gerekenler tartışılmıştır.
+
 
 # SPRİNT 2
 
