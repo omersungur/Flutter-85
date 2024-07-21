@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_85/screens/home.dart';
+import 'package:flutter_85/screens/welcome.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'homepage.dart';
-import 'note_repository.dart';
-
 
 void main() {
   runApp(const ProviderScope(child: MyApp()));
@@ -21,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const HomeScreen(),
+      home: const Welcome(),
     );
   }
 }
