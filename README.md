@@ -22,28 +22,24 @@ Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işle
 
 ## Ürün Özellikleri
 
--Kullanıcı Dostu Arayüz
+- Kullanıcı Dostu Arayüz
 
--Not Kategorileri
+- Not Kategorileri
 
--Hatırlatıcı ve Bildirimler
+- Hatırlatıcı ve Bildirimler
 
--Güvenlik ve Yedekleme
+- Güvenlik ve Yedekleme
 
 ## Hedef Kitle
 
--Öğrenciler
+- Öğrenciler
 
--Profesyoneller
+- Profesyoneller
 
--Organizasyonel Yapılar ve Takımlar
+- Organizasyonel Yapılar ve Takımlar
 
--Kendi Kendini Yönetmeyi Seven Bireyler
+- Kendi Kendini Yönetmeyi Seven Bireyler
 
-
-
-## Product Backlog URL
-[Miro Backlog Board](https://miro.com/welcomeonboard/T2ZBSmphTDg0Wm1OMmlQNjVzWDZ6Mnh5b0hvOTE0TTFJeTVlSzJFVDB3NmgxM3VWT0lBbjZ5ZGNIeDFQYWNRR3wzNDU4NzY0NTk0MDgyOTg5OTA4fDI=?share_link_id=503685536007)
 
 
 # SPRİNT 1
@@ -67,26 +63,64 @@ Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işle
 
 
 
-- **Sprint Review**:
+ **Sprint Review**:
 
--Uygulama arayüzü tasarlandı.Kullanıcı temel sayfaları oluşturulmuştur.
+- Uygulama arayüzü tasarlandı.Kullanıcı temel sayfaları oluşturulmuştur.
 
--Sprint Review katılımcıları:Oğuzhan Çilkurt, Salim Enes, Ömer Sungur
+- Sprint Review katılımcıları:Oğuzhan Çilkurt, Salim Enes, Ömer Sungur
 
-- **Sprint Retrospective**:
+ **Sprint Retrospective**:
   
--Roller ile ilgili düzenlemeler yapıldı.
+- Roller ile ilgili düzenlemeler yapıldı.
 
--Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alındı.
+- Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alındı.
+ 
+- Çeşitli toplantılar ile verilen görevler hakkında ilerleme kaydedildi.
 
--Çeşitli toplantılar ile verilen görevler hakkında ilerleme kaydedildi.
+- Takım üyeleri ile birlikte gelecek Sprint'te yapılması gerekenler tartışılmıştır.
 
--Takım üyeleri ile birlikte gelecek Sprint'te yapılması gerekenler tartışılmıştır.
+## Product Backlog URL
+[Miro Backlog Board](https://miro.com/welcomeonboard/T2ZBSmphTDg0Wm1OMmlQNjVzWDZ6Mnh5b0hvOTE0TTFJeTVlSzJFVDB3NmgxM3VWT0lBbjZ5ZGNIeDFQYWNRR3wzNDU4NzY0NTk0MDgyOTg5OTA4fDI=?share_link_id=503685536007)
 
 
 # SPRİNT 2
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Herkes için uygun olan günlerde ve saatlerde ise Discord üzerinden iletişim alma kararı alınmıştır.
+  
+- **Sprint Board Update**: Sprint board screenshotları:
+
+![Ekran görüntüsü 2024-07-21 191255](https://github.com/user-attachments/assets/ce14a5ec-736d-4d7c-a6f0-dc111ac04e6e)
+
+
+ **Ürün Durumu**: Ekran görüntüleri:
+  
+![WhatsApp Görsel 2024-07-21 saat 15 33 09_63037ff7](https://github.com/user-attachments/assets/95b1c502-ece3-4aeb-8715-70de4738a088)
+
+**Sprint Review**: 
+- Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir.Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış ve eksiklikleri değerlendirilmiştir. 
+
+- Sprint Review katılımcıları: Oğuzhan Çilkurt , Salim Enes , Ömer Sungur
+
+**Sprint Retrospective:**
+
+  - Takım üyelerinin görev dağılımları tekrar gözden geçirilmiştir.
+    
+  - Çeşitli toplantılar yapılarak ileride atılacak adımlar hakkında tartışıldı.
+ 
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+ 
+  - Uygulamamıza favorite , notların textine; bold, italic, underline ekleme , sort tuşuna basınca animasyon gibi fonksiyonlar eklendi.
+    
+---
+
+## Product Backlog URL
+
+[Miro Backlog Board](https://miro.com/welcomeonboard/T2ZBSmphTDg0Wm1OMmlQNjVzWDZ6Mnh5b0hvOTE0TTFJeTVlSzJFVDB3NmgxM3VWT0lBbjZ5ZGNIeDFQYWNRR3wzNDU4NzY0NTk0MDgyOTg5OTA4fDI=?share_link_id=503685536007)
+
+
+---
 
 # SPRİNT 3
 
