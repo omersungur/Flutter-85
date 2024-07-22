@@ -80,7 +80,7 @@ Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işle
 - Takım üyeleri ile birlikte gelecek Sprint'te yapılması gerekenler tartışılmıştır.
 
 ## Product Backlog URL
-[Miro Backlog Board](https://miro.com/welcomeonboard/T2ZBSmphTDg0Wm1OMmlQNjVzWDZ6Mnh5b0hvOTE0TTFJeTVlSzJFVDB3NmgxM3VWT0lBbjZ5ZGNIeDFQYWNRR3wzNDU4NzY0NTk0MDgyOTg5OTA4fDI=?share_link_id=503685536007)
+[Miro Backlog Board](https://miro.com/app/board/uXjVK0jxnr4=/?share_link_id=407553497874)
 
 
 # SPRİNT 2
@@ -117,7 +117,7 @@ Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işle
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/welcomeonboard/T2ZBSmphTDg0Wm1OMmlQNjVzWDZ6Mnh5b0hvOTE0TTFJeTVlSzJFVDB3NmgxM3VWT0lBbjZ5ZGNIeDFQYWNRR3wzNDU4NzY0NTk0MDgyOTg5OTA4fDI=?share_link_id=503685536007)
+[Miro Backlog Board](https://miro.com/app/board/uXjVK0jxnr4=/?share_link_id=407553497874)
 
 
 ---
