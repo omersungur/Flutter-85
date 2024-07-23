@@ -13,12 +13,14 @@ class EditScreen extends StatefulWidget {
 class _EditScreenState extends State<EditScreen> {
   TextEditingController _titleController = TextEditingController();
   TextEditingController _contentController = TextEditingController();
+  bool favorite = false;
 
   @override
   void initState() {
     if (widget.note != null) {
       _titleController = TextEditingController(text: widget.note!.title);
       _contentController = TextEditingController(text: widget.note!.content);
+      favorite = widget.note?.isFavorite ?? false;
     }
 
     super.initState();
@@ -49,7 +51,14 @@ class _EditScreenState extends State<EditScreen> {
                       Icons.arrow_back_ios_new,
                       color: Colors.white,
                     ),
-                  ))
+                  )),
+              IconButton(onPressed: (){
+                setState(() {
+                  favorite= !favorite;
+                });
+              },
+                  icon: favorite ? Icon(Icons.favorite) : Icon(Icons.favorite_outline),
+              )
             ],
           ),
           Expanded(
@@ -83,7 +92,7 @@ class _EditScreenState extends State<EditScreen> {
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           Navigator.pop(
-              context, [_titleController.text, _contentController.text]);
+              context, [_titleController.text, _contentController.text,favorite]);
         },
         elevation: 10,
         backgroundColor: Colors.grey.shade800,

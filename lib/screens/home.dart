@@ -134,6 +134,15 @@ class _HomeScreenState extends State<HomeScreen> {
                       child: Padding(
                         padding: const EdgeInsets.all(10.0),
                         child: ListTile(
+                          leading: IconButton(onPressed: () {
+                            setState(() {
+                              filteredNotes[index].isFavorite= !filteredNotes[index].isFavorite;
+                            });
+
+                          }, icon: filteredNotes[index].isFavorite? Icon(Icons.favorite) : Icon(Icons.favorite_outline),
+
+
+                          ),
                           onTap: () async {
                             final result = await Navigator.push(
                               context,
@@ -151,12 +160,14 @@ class _HomeScreenState extends State<HomeScreen> {
                                     id: sampleNotes[originalIndex].id,
                                     title: result[0],
                                     content: result[1],
+                                    isFavorite: result[2],
                                     modifiedTime: DateTime.now());
 
                                 filteredNotes[index] = Note(
                                     id: filteredNotes[index].id,
                                     title: result[0],
                                     content: result[1],
+                                    isFavorite: result[2],
                                     modifiedTime: DateTime.now());
                               });
                             }
@@ -226,6 +237,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   id: sampleNotes.length,
                   title: result[0],
                   content: result[1],
+                  isFavorite: result[2],
                   modifiedTime: DateTime.now()));
               filteredNotes = sampleNotes;
             });
