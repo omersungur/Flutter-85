@@ -44,17 +44,20 @@ Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işle
 
 # SPRİNT 1
 - Sprint içi puan değerlendirmesi 100 olarak belirlenmiştir.
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-- **Daily Scrum**: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. Görev dağılımları yapıldı.
+  
+**Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- **Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır.
-- **Tasarım ve Developing Grubu Üyeleri**: Salim Enes,Ömer Sungur.
+**Daily Scrum**: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. Görev dağılımları yapıldı.
 
-- **Sprint 1 board update**: Sprint Board Screenshot: 
+**Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır.
+ 
+**Tasarım ve Developing Grubu Üyeleri**: Salim Enes,Ömer Sungur.
+
+**Sprint 1 board update**: Sprint Board Screenshot: 
 
 ![Ekran görüntüsü 2024-07-07 150253](https://github.com/omersungur/Flutter-85/assets/98377968/37b55880-dd19-4637-86cb-26128bbb45d8)
 
-- **Ürün Durumu**: Ekran görüntüleri:
+**Ürün Durumu**: Ekran görüntüleri:
 
 ![WhatsApp Görsel 2024-07-07 saat 15 06 06_ac66645f](https://github.com/omersungur/Flutter-85/assets/98377968/6c7e5993-382a-4ba6-9d37-c6c8426a4698)
 
@@ -85,11 +88,11 @@ Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işle
 
 # SPRİNT 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+**Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Herkes için uygun olan günlerde ve saatlerde ise Discord üzerinden iletişim alma kararı alınmıştır.
+**Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Herkes için uygun olan günlerde ve saatlerde ise Discord üzerinden iletişim alma kararı alınmıştır.
   
-- **Sprint Board Update**: Sprint board screenshotları:
+**Sprint Board Update**: Sprint board screenshotları:
 
 ![Ekran görüntüsü 2024-07-21 191255](https://github.com/user-attachments/assets/ce14a5ec-736d-4d7c-a6f0-dc111ac04e6e)
 
@@ -120,7 +123,35 @@ Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işle
 [Miro Backlog Board](https://miro.com/app/board/uXjVK0jxnr4=/?share_link_id=407553497874)
 
 
----
-
 # SPRİNT 3
+ 
+ **Sprint içinde tamamlanması tahmin edilen puan:** 120 puan
 
+**Daily Scrum:** Daily Scrum toplantıları, ekip üyelerinin günlük işleri ve zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Ortak saat ve gün belirlendiği zamanlarda ise Discord üzerinden toplantı yapılmıştır.
+
+**Sprint board update:** Sprint board screenshotları:
+
+
+**Ürün fotoları:**
+
+
+
+
+**Sprint Review:**
+
+  - (   )
+  - Tamamlanması gereken 340 puanlık backlog puanı tamamlanmıştır.
+    
+  - Sprint Review katılımcıları: Oğuzhan Çilkurt , Salim Enes , Ömer Sungur
+
+**Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+  - Gelecek projelerde iletişimde kalınacağına dair konuşmalar yapıldı.
+
+  - Takım ruhunu koruyup Scrum boyunca özveriyle çalışılarak proje başarıyla tamamlandı.
+
+  - Ekip olarak sprintin bitişini kutladık ve demo günü sunumuna hazırlanmaya başladık.
+ 
+  
