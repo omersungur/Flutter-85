@@ -139,7 +139,12 @@ Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işle
 
 **Sprint Review:**
 
-  - (   )
+  - Favorite kısmında bulunan "bug" giderildi.
+    
+  - Başlangıç ekranından ana ekrana geçişteki navigasyon değiştirildi
+
+  - Ek olarak "favorite" kısmı güncellendi
+    
   - Tamamlanması gereken 340 puanlık backlog puanı tamamlanmıştır.
     
   - Sprint Review katılımcıları: Oğuzhan Çilkurt , Salim Enes , Ömer Sungur
