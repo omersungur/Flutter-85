@@ -131,8 +131,10 @@ Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işle
 
 **Sprint board update:** Sprint board screenshotları:
 
+![WhatsApp Görsel 2024-08-01 saat 09 00 25_20a2f12b](https://github.com/user-attachments/assets/f2cc6b28-d56b-4dd7-9add-adbe85b976d3)
 
 **Ürün fotoları:**
+
 
 
 
