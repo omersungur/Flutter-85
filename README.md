@@ -136,8 +136,15 @@ Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işle
 **Ürün fotoları:**
 
 
+![WhatsApp Görsel 2024-07-07 saat 15 06 06_ac66645f](https://github.com/omersungur/Flutter-85/assets/98377968/6c7e5993-382a-4ba6-9d37-c6c8426a4698)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
+![WhatsApp Görsel 2024-07-07 saat 15 06 24_c915d183](https://github.com/omersungur/Flutter-85/assets/98377968/08313856-ff91-4877-be46-e63521b4daed)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+![WhatsApp Görsel 2024-07-21 saat 15 33 09_63037ff7](https://github.com/user-attachments/assets/95b1c502-ece3-4aeb-8715-70de4738a088)
 
 **Sprint Review:**
 
@@ -160,5 +167,7 @@ Geliştirmekte olduğumuz not alma uygulaması, kullanıcıların günlük işle
   - Takım ruhunu koruyup Scrum boyunca özveriyle çalışılarak proje başarıyla tamamlandı.
 
   - Ekip olarak sprintin bitişini kutladık ve demo günü sunumuna hazırlanmaya başladık.
- 
-  
+
+## Product Backlog URL
+
+[Miro Backlog Board](https://miro.com/app/board/uXjVK0jxnr4=/?share_link_id=407553497874)  
